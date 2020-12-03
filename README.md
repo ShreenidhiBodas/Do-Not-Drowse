@@ -1,2 +1,2 @@
 # Do-Not-Drowse
-A CNN based machine learning model to detect drowsiness while driving
+## A CNN based machine learning model to detect drowsiness while driving
