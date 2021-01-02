@@ -12,7 +12,7 @@ A CNN based machine learning model to detect drowsiness while driving
 `pip install <packages>`
 
 # Run
-python drowsiness\ detection.py
+`python "drowsiness detection.py"`
 
 # To quit
 Press Q
